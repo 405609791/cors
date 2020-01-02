@@ -16,3 +16,7 @@
                 //allowedHeaders则表示允许的请求头
                 .allowedHeaders("*");
     }
+
+都是spring boot项目
+probider 后台提供服务（idea）
+consumer 代表前台发送请求（eclipse）
